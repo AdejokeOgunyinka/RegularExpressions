@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "WEEK 5 TASK TEST",
+      "setup": "",
+      "run": "python -m unittest tests/test_email_parser.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
